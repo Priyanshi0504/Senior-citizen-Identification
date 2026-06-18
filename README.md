@@ -1,3 +1,3 @@
 # Senior-citizen-Identification
 
-Description: In this task, you will develop a machine learning model to predict multiple persons in a video or real-time webcam feed for a mall or local store. Your model should detect their age and gender. If a person’s age is more than 60, mark them as a senior citizen and detect their gender. 
+I developed a real-time senior citizen detection system using computer vision that estimates age and gender from webcam or video streams, identifies senior citizens (age 60+), and automatically logs visitor details with timestamps into CSV/Excel files.
